@@ -1,6 +1,6 @@
 import "./contact.css";
-import Phone from "../../img/phone.png";
-import Email from "../../img/email.png";
+import Phone from "../../img/phone.jpg";
+import Email from "../../img/email.jpg";
 
 import { useContext, useRef, useState } from "react";
 // import emailjs from "emailjs-com";
